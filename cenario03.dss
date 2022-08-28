@@ -33,7 +33,7 @@ New Load.CargaDistrib phases=3 conn=wye bus1=BarraDistrib kw=40 pf=0.92 kv=0.38 
 New XYcurve.RelacaoTeP npts=4 xarray=[0 25 75 100] yarray=[1.2 1.0 0.8 0.6]
 New XYcurve.RelacaoPeEfic npts=4 xarray=[0.1 0.2 0.4 1] yarray=[0.86 0.90 0.93 0.97]
 New loadshape.CurvaIrrad npts=24 interval=1
-~ mult=[0 0 0 0 0 0 .1 .2 .3 .5 .8 .9 1.0 1.0 0.99 .9 .7 .4 .1 0 0 0 0 0]
+~ mult=[0 0 0 0 0 0 .1 .2 .3 .5 .8 .9 1.0 1.0 0.99 .9 .7 .2 .05 0 0 0 0 0]
 New Tshape.CurvaTemp npts=24 interval=1
 ~ temp=[25 25 25 25 25 25 25 25 35 40 45 50 60 60 55 40 35 30 25 25 25 25 25 25]
 

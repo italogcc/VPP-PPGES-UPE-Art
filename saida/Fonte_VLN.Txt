@@ -1,0 +1,8 @@
+
+SYMMETRICAL COMPONENT VOLTAGES BY BUS (for 3-phase buses)
+
+Bus           Mag:   V1 (kV)    p.u.     V2 (kV)   %V2/V1    V0 (kV)    %V0/V1
+
+barrafonte      0.2194          1  7.809E-010  3.559E-007 1.52E-009 6.93E-007
+barradistrib    0.2178     0.9929  0.0001505    0.06908  7.4E-005   0.03397
+barraa          0.2178     0.9929  0.0001505    0.06908  7.4E-005   0.03397
