@@ -19,13 +19,13 @@ Instructions for use:
 
 5. Edit the file "InterfaceDLL-cenario0x.py" inserting the path of the files "cenario0x.dss", that is, the path where the files were saved.
 
--------------------------------------------------- ---
+-----------------------------------------------------
 
 Recommendations:
 
 1. To edit the .dss files, do changes in text editor programs and then reopen them in OpenDSS. The goal is to avoid strange errors when opening files.
 
--------------------------------------------------- ---
+-----------------------------------------------------
 
 Other recommended programs:
 
